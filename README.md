@@ -4,3 +4,4 @@
 2.	Koristi bootstrap za HTML stilizovanje elemenata
 3.	Povezati evente na buttone da vrse upis brojeva i racunanje.
 
+If you want to test calculator https://codepen.io/JazakVoda/pen/mXKGpK
